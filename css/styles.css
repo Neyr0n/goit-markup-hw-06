@@ -1175,7 +1175,7 @@ body {
 }
 
 /* -------------------- Desktop Styles ----------------------- */
-@media screen and (min-width:1188px) {
+@media screen and (min-width:1158px) {
   .container {
     max-width: 1158px;
     padding: 0 15px;
@@ -1184,7 +1184,7 @@ body {
 
 /* ========================= Header ========================= */
 
-@media screen and (min-width:1188px) {
+@media screen and (min-width:1158px) {
   .contacts-list {
     display: flex;
     gap: 40px;
@@ -1212,7 +1212,7 @@ body {
 }
 
 /* ========================= Section Hero ========================= */
-@media screen and (min-width:1188px) {
+@media screen and (min-width:1158px) {
   .hero {
     max-width: 1440px;
     padding: 188px 0;
@@ -1234,7 +1234,7 @@ body {
 }
 
 /* ========================= Section Features ========================= */
-@media screen and (min-width:1188px) {
+@media screen and (min-width:1158px) {
   .features {
     padding: 120px 0;
   }
@@ -1269,17 +1269,17 @@ body {
 }
 
 /* ========================= Section Teams ========================= */
-@media screen and (min-width:1188px) {}
+@media screen and (min-width:1158px) {}
 
 /* ========================= Section Portfolio ========================= */
-@media screen and (min-width:1188px) {
+@media screen and (min-width:1158px) {
   .portfolio-image {
     width: 360px;
   }
 }
 
 /* ========================= Footer ========================= */
-@media screen and (min-width:1188px) {
+@media screen and (min-width:1158px) {
   .container-ftr {
     flex-wrap: nowrap;
     align-items: baseline;
