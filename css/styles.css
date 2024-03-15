@@ -1308,14 +1308,14 @@ body {
 /* ========================= Section Teams ========================= */
 @media screen and (min-width:1158px) {
   .team {
-    padding: 120px;
+    padding: 120px 0;
   }
 }
 
 /* ========================= Section Portfolio ========================= */
 @media screen and (min-width:1158px) {
   .portfolio {
-    padding: 120px;
+    padding: 120px 0;
   }
 
   .portfolio-item {
@@ -1330,7 +1330,7 @@ body {
 /* ========================= Footer ========================= */
 @media screen and (min-width:1158px) {
   .footer {
-    padding: 100px;
+    padding: 100px 0;
   }
 
   .container-ftr {
